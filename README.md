@@ -1,4 +1,6 @@
 beta
 ====
 
-Beta Repo
+Greetings! Welcome to Orange Epsilon Beta Repo!
+
+Ben
